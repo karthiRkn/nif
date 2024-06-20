@@ -1,0 +1,28 @@
+.form-div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url(https://wallpapers.com/images/hd/netflix-background-gs7hjuwvv2g0e9fj.jpg);
+    align-items: center;
+}
+
+.form-con{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 50px;
+    background: #00000057;
+    color: #fff;
+}
+.heading{text-align: center;}
+.btn-custom{
+    background-color: #e50914 !important;
+    color: #fff;
+    border: none;
+    padding: 7px 15px;
+    border-radius: 7px;
+}
+
+.form-con input{
+    margin-bottom: 15px;
+}
